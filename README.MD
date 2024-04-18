@@ -18,6 +18,8 @@ After you fork project under it's new name, update `expo-starter` in `package.js
 
 ### Development
 
+Install Xcode and ensure you've installed iOS libraries when opened Xcode at least once, currently supported Xcode 15.3.
+
 Install dependencies with `npm install`. Create new project in Expo via [this link](https://expo.dev/) and following instructions how to set it up.
 Start developement by running regular `npm start`. Follow on screen prompt to setup expo on iOS/Android device.
 
